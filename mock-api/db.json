@@ -1,0 +1,11 @@
+{
+  "inspections":[{
+     "inspector":"USDA Inspector",
+     "crop":"Wheat",
+     "date":"4/22/2016",
+     "time":"10:46:48",
+     "lat":"46.1429638",
+     "long":"-118.9090416",
+     "farm":"Farm C"
+  }]
+}
